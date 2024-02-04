@@ -21,7 +21,7 @@ The neural network architecture used for this project has the following layers:
 - He Initialization
 
 ## Outputs
-![Ouptput1](./Ouputs/Training_Output.png)
-![Ouptput1](./Ouputs/Outpu1.png)
-![Ouptput2](./Ouputs/Outpu2.png)
-![Ouptput3](./Ouputs/Outpu3.png)
+![Ouptput1](./Outputs/Training_Output.png)
+![Ouptput1](./Outputs/Output1.png)
+![Ouptput2](./Outputs/Output2.png)
+![Ouptput3](./Outputs/Output3.png)
